@@ -1,0 +1,7 @@
+=== Задание 1 ===
+ Ищет все репозитории про тетрисы и выводит hub=12312 в консоль
+http://localhost:3000/rxjs/repositories?text=tetris+language:assembly&hub=12312
+
+=== Задание 2 ===
+Получает погоду в городе Перми
+http://localhost:3000/weather?place=Perm
